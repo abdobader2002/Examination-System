@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2BE83FC2-E6F3-4EF7-9D62-414CD88F5E89}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Desktop\ExaminationSystem\abdelrahman badr+test data.sql = ..\..\Desktop\ExaminationSystem\abdelrahman badr+test data.sql
+		..\alldatabaseScript.sql = ..\alldatabaseScript.sql
+		..\AlTayeb Khaled Sayed.sql = ..\AlTayeb Khaled Sayed.sql
+		..\..\Desktop\ExaminationSystem\Fady Emad.sql = ..\..\Desktop\ExaminationSystem\Fady Emad.sql
+		..\..\Downloads\Manar Gamal.sql = ..\..\Downloads\Manar Gamal.sql
+		..\..\Desktop\ExaminationSystem\MarioAdel_DDL.sql = ..\..\Desktop\ExaminationSystem\MarioAdel_DDL.sql
+		..\..\Desktop\ExaminationSystem\MarioAdel_F_SP_Trigger.sql = ..\..\Desktop\ExaminationSystem\MarioAdel_F_SP_Trigger.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE202EDF-CC2D-498E-AF4D-F6AD3B3102C4}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C995BB9-34AF-43BF-B5B4-E3F3F4B0E484}
+	EndGlobalSection
+EndGlobal
